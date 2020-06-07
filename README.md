@@ -1,6 +1,6 @@
 # RGB led with Arduino
 
-[![License: GitHub license](https://img.shields.io/github/license/mrouillard/RGB_led_arduino)](https://github.com/mrouillard/RGB_led_arduino/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/mrouillard/RGB_led_arduino)](https://github.com/mrouillard/RGB_led_arduino/blob/master/LICENSE)
 
 ## parts list
 
