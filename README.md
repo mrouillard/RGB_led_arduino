@@ -1,5 +1,7 @@
 # RGB led with Arduino
 
+[![License: Creative Commons](https://img.shields.io/github/license/mrouillard/RGB_led_arduino)](https://github.com/mrouillard/RGB_led_arduino/blob/master/LICENSE)
+
 ## parts list
 
 * 1 RGB Led (the one I have has the long pin as the common cathod (-))
